@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    text-align: center;
+    margin-top: 210px;
+    margin-left: 590px;
+    background-color: #111111;
+    height: 300px;
+    width: 300px;
+    box-shadow: 1px 1px 20px #0000FF;
+    border-radius: 10px;
+}
+
+.login{
+    background-color:#111111;
+    border-color: white;
+    margin: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.enviar {
+    background-color: #111111;
+    border-color: white;
+    color: #777777;
+    border-radius: 5px;
+    width: 70px;
+    height: 40px;
+    margin: 30px;
+    cursor: pointer;
+}
+
+.cadastrar {
+    color: white;
+    text-decoration: none;
+}
